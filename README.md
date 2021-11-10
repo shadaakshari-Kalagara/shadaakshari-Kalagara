@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm still amused at the fact that I actually learn quicker than I think.**
 <p align="middle">
-<img src="https://i.pinimg.com/originals/83/31/25/8331258e543977d6614d4f0f849b3131.jpg" alt="Eat Sleep Code Repeat T-Shirt - Funny Programmer Gift - Smart Foxes | Programmer  humor, Coding quotes, Coding" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 600px; height: 500px; margin: 20px;">
+<img src="https://i.pinimg.com/originals/83/31/25/8331258e543977d6614d4f0f849b3131.jpg" alt="Eat Sleep Code Repeat T-Shirt - Funny Programmer Gift - Smart Foxes | Programmer  humor, Coding quotes, Coding" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 800px; height: 400px; margin: 20px;">
 
 
 <h3 align="left">Connect with me:</h3>
