@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shadaakshari Kalagara</h1>
-<h3 align="center">The solution minimizer, Yes I love making easier solutions</h3>
+<h3 align="center">I'm a college student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaakshari-xoxo&label=Profile%20views&color=0e75b6&style=flat" alt="shadaakshari-xoxo" /> </p>
 
-- 🔭I’m interested in anything that I stumble upon ( obviously anything pertaining to coding)
+- 🔭I’m currently learning MERN Stack and I aspire to become a software developer.
 
-- 👯 I’m currently learning a LOT of stuff, Funny I have to keep updating my resume every now and then :smirk:
+- 👯 I'm also super interested in cloud technologies 
 
 - 🤝I’m looking to collaborate on interesting projects to work on.
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shadaakshari19@gmail.com**
 
-- ⚡ Fun fact **I'm still amused at the fact that I actually learn quicker than I think.**
+- ⚡ Fun fact **I like snakes and I wish to keep one as a pet.**
 <p align="middle">
 <img src="https://i.pinimg.com/originals/83/31/25/8331258e543977d6614d4f0f849b3131.jpg" alt="Eat Sleep Code Repeat T-Shirt - Funny Programmer Gift - Smart Foxes | Programmer  humor, Coding quotes, Coding" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 800px; height: 400px; margin: 20px;">
 
