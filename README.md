@@ -9,11 +9,8 @@
 
 - 🤝I’m looking to collaborate on interesting projects to work on.
 
-- :woman: I'm a little bit lazy :alien:, but do you know it's the lazy ones that actually get you an easier solution. Yes , the same applies to my code as well :sunglasses:
-
 - 📫 How to reach me **shadaakshari19@gmail.com**
 
-- ⚡ Fun fact **I like snakes and I wish to keep one as a pet.**
 <p align="middle">
 <img src="https://i.pinimg.com/originals/83/31/25/8331258e543977d6614d4f0f849b3131.jpg" alt="Eat Sleep Code Repeat T-Shirt - Funny Programmer Gift - Smart Foxes | Programmer  humor, Coding quotes, Coding" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 800px; height: 400px; margin: 20px;">
 
